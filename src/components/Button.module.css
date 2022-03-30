@@ -1,0 +1,20 @@
+.button {
+  padding: 1rem;
+  margin: 0 0.5rem;
+  border-radius: 5rem;
+  background-color: rgb(85, 82, 82);
+  border: 0;
+}
+
+.button:hover {
+  cursor: pointer;
+  background-color: cadetblue;
+}
+
+.primary {
+  background-color: blue;
+}
+
+.secondary {
+  background-color: blueviolet;
+}
